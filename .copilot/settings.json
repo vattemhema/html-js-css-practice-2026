@@ -1,0 +1,34 @@
+{
+  "project": {
+    "name": "html-js-css-practice-2026",
+    "type": "learning",
+    "description": "Small daily practice exercises in HTML, CSS, and JavaScript"
+  },
+  "languages": ["html", "css", "javascript"],
+  "preferences": {
+    "keepItSimple": true,
+    "avoidFrameworks": true,
+    "preferVanillaJs": true,
+    "preferSingleFileExamples": true,
+    "accessibilityBasics": true
+  },
+  "style": {
+    "indent": 2,
+    "quotes": "double",
+    "css": {
+      "preferRem": true,
+      "preferCssVariables": true
+    },
+    "html": {
+      "useSemanticTags": true
+    },
+    "js": {
+      "avoidGlobalVars": true,
+      "preferConst": true
+    }
+  },
+  "repoConventions": {
+    "daysFolder": "src/",
+    "dayNaming": "day1, day2, day 3, day4 (keep existing names)"
+  }
+}

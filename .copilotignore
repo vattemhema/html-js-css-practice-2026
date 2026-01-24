@@ -1,0 +1,5 @@
+# Files/folders Copilot context tools can ignore
+# (Safe defaults; adjust as needed)
+
+LICENSE
+.git/
